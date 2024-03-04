@@ -1,4 +1,4 @@
-Project - Artemis Financial Vulnerability Assessment Report
+Project - Artemis Financial Vulnerability Assessment Report.
 
 #1. Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
